@@ -1,0 +1,99 @@
+body {
+    font-family: 'Overpass', sans-serif;
+    font-weight: normal;
+    font-size: 100%;
+    color: #1b262c;
+  
+    margin: 0;
+    background-color: #5f6769;
+  }
+  
+  #contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    margin: 0;
+    padding: 0;
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+    background-image: url(../imagenes/fondo_difuminado_login.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .titulo {
+    font-size: 300%;
+    color: #dfcdc3;
+  }
+  
+  .container {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+  
+    min-width: 380px;
+    max-width: 900px;
+    width: 90%;
+  
+    background-color: #5f6769;
+  
+    /*opacity: 0.50;
+      filter: alpha(opacity=50);*/
+  
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+  
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.15);
+  
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  #passwordStrength {
+    margin-top: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .criteria {
+    margin-top: 5px;
+    font-size: 12px;
+  }
+  
+  .valid {
+    color: green;
+  }
+  
+  .invalid {
+    color: #dfcdc3;
+  }
