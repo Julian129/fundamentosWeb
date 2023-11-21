@@ -1,6 +1,4 @@
-//const username = document.getElementById('usuario');
-//const password = document.getElementById('password');
-//const button = document.getElementById('Ingresar');
+
 function validateUser(a) {
     const b = "jaduran@estudiante.uniajc.edu.co";
     return a === b;
@@ -11,7 +9,10 @@ function validatePass(a) {
     return a === b;
 }
 
-function login(username,password) {
+function login() {
+    const username = document.getElementById('usuario');
+    const password = document.getElementById('password');
+    const button = document.getElementById('Ingresar');
     if (!username || !password || !button) {
         console.error('Error: No se encontraron algunos elementos en el DOM.');
     } else {
