@@ -1,0 +1,32 @@
+[
+    {
+        "id": "Servicio de conserjeria",
+        "titulo": "Servicio de conserjeria",
+        "imagen": "../img/habitacion/conserje.jpg",
+        "categoria": {
+            "nombre": "Habitacion",
+            "id": "Habitacion"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Wi-Fi gratuito",
+        "titulo": "Wi-Fi gratuito",
+        "imagen": "../img/habitacion/wifi.jpg",
+        "categoria": {
+            "nombre": "Entretenimiento",
+            "id": "Entretenimiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Recepcion las 24 horas",
+        "titulo": "Recepcion las 24 horas",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Varios",
+            "id": "varios"
+        },
+        "precio": " gratis"
+    }
+]

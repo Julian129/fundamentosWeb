@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         alert("El correo electrónico o la contraseña no cumplen con los criterios. Por favor, inténtalo de nuevo.");
       } else {
         alert("Registro exitoso. ¡Bienvenido!");
+        window.location = "./index.html"
       }
     });
   });
