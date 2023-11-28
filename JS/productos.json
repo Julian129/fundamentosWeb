@@ -1,31 +1,400 @@
-[
-    {
-        "id": "Servicio de conserjeria",
-        "titulo": "Servicio de conserjeria",
-        "imagen": "../img/habitacion/conserje.jpg",
-        "categoria": {
-            "nombre": "Habitacion",
-            "id": "Habitacion"
-        },
-        "precio": " gratis"
-    },
-    {
-        "id": "Wi-Fi gratuito",
-        "titulo": "Wi-Fi gratuito",
-        "imagen": "../img/habitacion/wifi.jpg",
-        "categoria": {
-            "nombre": "Entretenimiento",
-            "id": "Entretenimiento"
-        },
-        "precio": " gratis"
-    },
-    {
+[    {
         "id": "Recepcion las 24 horas",
         "titulo": "Recepcion las 24 horas",
         "imagen": "../img/varios/recepcion.jpg",
         "categoria": {
-            "nombre": "Varios",
-            "id": "varios"
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Personal multilingüe",
+        "titulo": "Personal multilingüe",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Servicio de conserjeria",
+        "titulo": "Servicio de conserjeria",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Asistencia con el equipaje",
+        "titulo": "Asistencia con el equipaje",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Reservas y recomendaciones locales",
+        "titulo": "Reservas y recomendaciones locales",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": "gratis"
+    },
+    {
+        "id": "Servicio de despertador",
+        "titulo": "Servicio de despertador",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Mapas e informacion turistica",
+        "titulo": "Mapas e informacion turistica",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Guardaequipaje",
+        "titulo": "Guardaequipaje",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Check-in y check-out express",
+        "titulo": "Check-in y check-out express",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Servicio de transporte al aeropuerto",
+        "titulo": "Servicio de transporte al aeropuerto",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Recepción y Conserjería",
+            "id": "Recepción y Conserjería"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Habitaciones con aire acondicionado",
+        "titulo": "Habitaciones con aire acondicionado",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Television por cable/satelite",
+        "titulo": "Television por cable/satelite",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Servicio de habitaciones las 24 horas",
+        "titulo": "Servicio de habitaciones las 24 horas",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "WiFi de alta velocidad",
+        "titulo": "WiFi de alta velocidad",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Baño privado con artículos de tocador",
+        "titulo": "Baño privado con artículos de tocador",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Servicio de limpieza diario",
+        "titulo": "Servicio de limpieza diario",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Caja fuerte en la habitacion",
+        "titulo": "Caja fuerte en la habitacion",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Mini bar",
+        "titulo": "Mini bar",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Telefono directo",
+        "titulo": "Telefono directo",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Vistas panoramicas",
+        "titulo": "Vistas panoramicas",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Alojamiento",
+            "id": "Alojamiento"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Restaurante gourmet en el lugar",
+        "titulo": "Restaurante gourmet en el lugar",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Desayuno buffet",
+        "titulo": "Desayuno buffet",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Bar con cocteles especializados",
+        "titulo": "Bar con cocteles especializados",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Opciones de menu para dietas especiales",
+        "titulo": "Opciones de menu para dietas especiales",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Area de comedor al aire libre",
+        "titulo": "Area de comedor al aire libre",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Eventos gastronomicos tematicos",
+        "titulo": "Eventos gastronomicos tematicos",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Catering para eventos",
+        "titulo": "Catering para eventos",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Menus para niños",
+        "titulo": "Menus para niños",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Servicio de bar en la piscina",
+        "titulo": "Servicio de bar en la piscina",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Vistas panoramicas",
+        "titulo": "Vistas panoramicas",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Restaurante y Bar",
+            "id": "Restaurante y Bar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Spa con servicio completo",
+        "titulo": "Spa con servicio completo",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Gimnasio con entrenadores personales",
+        "titulo": "Gimnasio con entrenadores personales",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Piscina cubierta y al aire libre",
+        "titulo": "Piscina cubierta y al aire libre",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Jacuzzi y sauna",
+        "titulo": "Jacuzzi y sauna",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Clases de yoga y fitness",
+        "titulo": "Clases de yoga y fitness",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Tratamientos de belleza",
+        "titulo": "Tratamientos de belleza",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Masajes terapeuticos",
+        "titulo": "Masajes terapéuticos",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Area de relajacion",
+        "titulo": "Area de relajacion",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Programas de bienestar",
+        "titulo": "Programas de bienestar",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
+        },
+        "precio": " gratis"
+    },
+    {
+        "id": "Canchas deportivas (tenis, baloncesto)",
+        "titulo": "Canchas deportivas (tenis, baloncesto)",
+        "imagen": "../img/varios/recepcion.jpg",
+        "categoria": {
+            "nombre": "Instalaciones de Bienestar",
+            "id": "Instalaciones de Bienestar"
         },
         "precio": " gratis"
     }
