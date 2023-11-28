@@ -1,12 +1,9 @@
-Proyecto de Servicios de Hoteles
+Proyecto de Desarrollo de Servicios Hoteleros
 
-En el contexto de la asignatura de Fundamentos Web, se ha desarrollado un proyecto final centrado en la creación de una aplicación estática dedicada a los Servicios de Hoteles. Este proyecto busca aplicar los conocimientos adquiridos a lo largo del curso, fusionando teoría y práctica para diseñar una solución de software funcional. El enfoque interdisciplinario promueve la creatividad, la innovación y la resolución de problemas, ofreciendo una visión completa de los procesos de desarrollo de software en un entorno educativo.
+En el marco del curso de Fundamentos Web, se ha llevado a cabo un proyecto final que se enfoca en la creación de una aplicación estática dedicada a los Servicios Hoteleros. El propósito de este proyecto es aplicar los conocimientos adquiridos a lo largo del curso, integrando teoría y práctica para concebir una solución de software funcional. El enfoque interdisciplinario cultivado durante este proceso fomenta la creatividad, la innovación y la resolución de problemas, proporcionando una visión integral de los procesos de desarrollo de software en un entorno educativo.
 
-Elementos a Evaluar:
-El proyecto aborda conceptos fundamentales de HTML, CSS y JavaScript, con énfasis en maquetación, semántica HTML, flexbox, grid, estilos con clases y selectores, metodología BEM, modelo de caja, implementación de funciones y promesas, y el uso de eventos en JavaScript con botones.
+Aspectos a Evaluar: El proyecto aborda conceptos fundamentales de HTML, CSS y JavaScript, destacando la maquetación, la semántica HTML, flexbox, grid, estilos mediante clases y selectores, la metodología BEM, el modelo de caja, la implementación de funciones y promesas, así como el uso de eventos en JavaScript, especialmente con respecto a los botones.
 
-Líneas de Desarrollo:
-El enfoque del proyecto se centra en los Servicios de Hoteles, proporcionando vistas para el ingreso al sistema, una lista paginada de elementos y detalles específicos de cada elemento.
+Áreas de Desarrollo: La atención principal del proyecto se centra en los Servicios Hoteleros, ofreciendo interfaces para el acceso al sistema, una lista paginada de elementos y detalles específicos de cada uno.
 
-Condiciones del Sistema:
-El usuario interactúa con el sistema mediante la validación del login, redireccionamiento a la página principal, carga de datos simulada con promesas, paginación, filtrado de elementos, y navegación a detalles de elementos con capacidad de actualización.
+Requisitos del Sistema: La interacción del usuario con el sistema comprende la validación del inicio de sesión, la redirección a la página principal, la carga simulada de datos mediante promesas, la paginación, el filtrado de elementos y la navegación a los detalles de cada elemento con la capacidad de actualización.

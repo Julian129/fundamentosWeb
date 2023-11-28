@@ -15,7 +15,17 @@
     font-family: 'Rubik', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+input,
+textarea,
+ul {
     margin: 0;
     padding: 0;
 }
@@ -50,7 +60,8 @@ aside {
     font-weight: 400;
     font-size: 1.3rem;
 }
-.logo-img{
+
+.logo-img {
     width: 80%;
 }
 
@@ -106,8 +117,8 @@ aside {
     box-shadow: 0 -1rem 0 var(--clr-white);
 }
 
-.boton-menu > i.bi-hand-index-thumb-fill,
-.boton-menu > i.bi-hand-index-thumb {
+.boton-menu>i.bi-hand-index-thumb-fill,
+.boton-menu>i.bi-hand-index-thumb {
     transform: rotateZ(90deg);
 }
 
@@ -182,6 +193,23 @@ main {
     cursor: pointer;
     border: 2px solid var(--clr-white);
     transition: background-color .2s, color .2s;
+}
+
+.button-page {
+    border: 0;
+    background-color: var(--clr-white);
+    color: var(--clr-main);
+    padding: .4rem;
+    text-transform: uppercase;
+    border-radius: 2rem;
+    cursor: pointer;
+    border: 2px solid var(--clr-white);
+    transition: background-color .2s, color .2s;
+}
+
+.button-page:hover {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
 }
 
 .ver-mas:hover {
@@ -268,7 +296,8 @@ main {
         color: var(--clr-gray);
     }
 
-    .open-menu, .close-menu {
+    .open-menu,
+    .close-menu {
         background-color: transparent;
         color: var(--clr-gray);
         border: 0;
@@ -298,7 +327,7 @@ main {
         flex-wrap: wrap;
         row-gap: 1rem;
     }
-    
+
 
 }
 
@@ -308,4 +337,28 @@ main {
     .contenedor-productos {
         grid-template-columns: 1fr;
     }
+}
+
+.producto-detalle {
+    display: none;
+}
+
+.producto-detalle.activo {
+    display: block;
+}
+
+.detalle-producto {
+    display: none;
+    flex-grow: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+}
+
+.detalle-producto.mostrar {
+    display: block;
+}
+
+.ocultar {
+    visibility: hidden;
 }

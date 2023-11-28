@@ -1,4 +1,5 @@
-[    {
+[
+    {
         "id": "Recepcion las 24 horas",
         "titulo": "Recepcion las 24 horas",
         "imagen": "../img/varios/recepcion.jpg",
@@ -6,7 +7,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "La recepción las 24 horas constituye un servicio esencial diseñado para brindar asistencia continua y personalizada a los huéspedes durante su estancia en el hotel. Este servicio garantiza la presencia constante de profesionales altamente capacitados que están disponibles en cualquier momento del día o de la noche para atender las necesidades y consultas de los visitantes. Ya sea para realizar registros de entrada o salida fuera del horario convencional, proporcionar información turística, coordinar servicios de transporte, o responder a cualquier solicitud especial, el equipo de recepción las 24 horas se destaca por su disposición ininterrumpida y su enfoque orientado al cliente. Este servicio no solo asegura una experiencia de hospitalidad sin contratiempos, sino que también contribuye a la sensación de seguridad y comodidad que distingue a la estancia en el hotel."
     },
     {
         "id": "Personal multilingüe",
@@ -16,7 +18,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "La presencia de un personal multilingüe en nuestro hotel refleja nuestro compromiso con la diversidad y la inclusión, asegurando que cada huésped disfrute de una experiencia excepcional y personalizada. Nuestro equipo está compuesto por profesionales que dominan varios idiomas, lo que facilita una comunicación fluida y eficaz con huéspedes de diversas nacionalidades y culturas. Esta capacidad lingüística se extiende a todos los aspectos de la estancia, desde el proceso de registro hasta proporcionar recomendaciones locales y resolver consultas específicas. La inclusión de personal multilingüe no solo elimina barreras lingüísticas, sino que también enriquece la interacción, promoviendo un ambiente acogedor y global en el que cada huésped se sienta comprensiblemente atendido y valorado."
     },
     {
         "id": "Servicio de conserjeria",
@@ -26,7 +29,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "Nuestro servicio de conserjería se erige como el vínculo entre nuestros huéspedes y la plétora de experiencias que nuestra ubicación tiene para ofrecer. Más allá de las funciones tradicionales de asistencia, nuestro equipo de conserjería está dedicado a crear experiencias memorables y personalizadas para cada visitante. Desde proporcionar información detallada sobre destinos locales hasta organizar reservas en restaurantes exclusivos, eventos culturales o traslados especiales, nuestro servicio de conserjería busca superar expectativas y transformar la estancia en una aventura única. Con un conocimiento profundo de la región y una red de contactos bien establecida, nuestro equipo de conserjería se distingue por su capacidad para transformar solicitudes ordinarias en momentos extraordinarios, contribuyendo así a una experiencia hotelera incomparable."
     },
     {
         "id": "Asistencia con el equipaje",
@@ -36,7 +40,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "Nuestra dedicación a la comodidad y atención personalizada se manifiesta en nuestro servicio de asistencia con el equipaje. Desde el momento en que llegas, nuestro personal capacitado está listo para aliviar cualquier carga asociada con el transporte de tu equipaje. Ya sea a la llegada o la salida, nuestro equipo de asistencia con el equipaje se encarga de la recepción, transporte y entrega de tus pertenencias de manera cuidadosa y eficiente. Este servicio no solo alivia a nuestros huéspedes de la preocupación logística, sino que también establece el tono para una experiencia relajante y sin complicaciones desde el primer momento. Con un enfoque proactivo y cordial, nuestro equipo está siempre disponible para garantizar que tu llegada y partida sean tan suaves y placenteras como sea posible."
     },
     {
         "id": "Reservas y recomendaciones locales",
@@ -46,7 +51,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": "gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "Nuestro compromiso con la excelencia se extiende a través del servicio de Reservas y Recomendaciones Locales, diseñado para optimizar tu experiencia y exploración en la comunidad circundante. Desde la planificación de cenas en restaurantes exclusivos hasta la organización de actividades locales, nuestro equipo experto se encarga de cada detalle para asegurar una estancia enriquecedora. Las reservas para eventos culturales, excursiones y visitas turísticas pueden ser gestionadas con facilidad, permitiéndote aprovechar al máximo tu tiempo mientras exploras las atracciones cercanas. Además, nuestras recomendaciones locales están respaldadas por un conocimiento profundo de la región, asegurando que descubras los tesoros ocultos y experiencias auténticas que hacen única a cada ubicación. De esta manera, aspiramos a que cada huésped no solo se beneficie de la hospitalidad del hotel, sino que también se sumerja plenamente en la riqueza cultural y las maravillas locales."
     },
     {
         "id": "Servicio de despertador",
@@ -56,7 +62,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "Nuestro servicio de despertador está diseñado para asegurar que tu día comience de manera puntual y sin contratiempos. Con una atención meticulosa al tiempo y tus preferencias individuales, nuestro equipo se encarga de proporcionar un servicio de despertador personalizado. Ya sea que prefieras una llamada telefónica, un mensaje de texto o un despertar suave a través de medios digitales, nos ajustamos a tus necesidades. Este servicio no solo garantiza una transición suave al nuevo día, sino que también se adapta a tus preferencias personales para brindarte una experiencia de despertar a medida. Con el servicio de despertador, aspiramos a iniciar tu jornada con la misma atención cuidadosa que caracteriza a todos nuestros servicios, asegurando así que cada momento de tu estancia refleje nuestro compromiso con tu comodidad y satisfacción."
     },
     {
         "id": "Mapas e informacion turistica",
@@ -66,7 +73,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "Para enriquecer tu experiencia exploratoria, ofrecemos un servicio completo de mapas e información turística. Nuestro objetivo es proporcionarte las herramientas necesarias para descubrir y disfrutar plenamente de los tesoros locales y atracciones cercanas. Los mapas detallados, personalizados para adaptarse a tus intereses, te guiarán de manera precisa a través de las maravillas de la región. Además, nuestro equipo de expertos en información turística está disponible para proporcionar detalles adicionales, recomendaciones personalizadas y consejos locales que te permitirán sumergirte completamente en la cultura y la belleza de los alrededores. Con este servicio, buscamos no solo facilitar tu exploración, sino también garantizar que cada momento de tu estancia esté lleno de descubrimientos auténticos y experiencias inolvidables."
     },
     {
         "id": "Guardaequipaje",
@@ -76,7 +84,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "$10.000 x Dia",
+        "descripcion": "Nuestro servicio de guardaequipaje está diseñado para brindarte flexibilidad y comodidad durante cada etapa de tu estancia. Ya sea que llegues antes del horario de check-in o desees explorar la ciudad después del check-out, nuestro personal capacitado se encarga de tu equipaje de manera segura y eficiente. Este servicio te permite disfrutar plenamente de las instalaciones del hotel o de las atracciones locales sin la carga de llevar contigo tus pertenencias. Con un enfoque proactivo y cuidadoso, nuestro equipo está comprometido a garantizar la seguridad y preservación de tus objetos personales. Aspiramos a que tu estancia sea lo más conveniente y libre de preocupaciones posible, y nuestro servicio de guardaequipaje contribuye significativamente a esa experiencia sin contratiempos."
     },
     {
         "id": "Check-in y check-out express",
@@ -86,7 +95,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "MEMBRESIA VIP",
+        "descripcion": "Para optimizar tu experiencia y minimizar el tiempo dedicado a formalidades, ofrecemos un servicio eficiente de check-in y check-out express. Este servicio agiliza el proceso de llegada y salida, permitiéndote disfrutar rápidamente de tu estancia o continuar con tu día sin demoras innecesarias.<BR>        Check-in Express:<BR><BR>Con nuestro check-in express, tu llegada se simplifica significativamente. A través de procesos ágiles y personal dedicado, puedes completar los trámites de registro de manera rápida y eficiente, accediendo rápidamente a la comodidad de tu alojamiento.<BR>Check-out Express:<BR>Al finalizar tu estancia, el check-out express te permite despedirte con facilidad. Con opciones de pago previo y la coordinación anticipada de cualquier servicio adicional, puedes dejar el hotel de manera expedita, permitiéndote aprovechar al máximo tu tiempo sin preocupaciones logísticas.<BR><BR>Este servicio está diseñado para proporcionar una experiencia fluida y sin complicaciones, reforzando nuestro compromiso de hacer que cada momento de tu estancia sea eficiente y placentero.<BR>"
     },
     {
         "id": "Servicio de transporte al aeropuerto",
@@ -96,7 +106,8 @@
             "nombre": "Recepción y Conserjería",
             "id": "Recepción y Conserjería"
         },
-        "precio": " gratis"
+        "precio": "MEMBRESIA VIP",
+        "descripcion": "Nuestro servicio de transporte al aeropuerto ha sido cuidadosamente diseñado para ofrecerte comodidad y tranquilidad en tu trayecto entre el hotel y el aeropuerto. Con un enfoque orientado al cliente y la puntualidad como prioridad, nuestro equipo se encarga de coordinar tu transporte de manera eficiente, asegurando que llegues a tu destino de manera segura y sin contratiempos.<BR><BR><b>Características del Servicio:</b><BR><BR><b>Reservas Programadas:</b> Puedes programar tu transporte con antelación, garantizando disponibilidad y adaptándonos a tus horarios de vuelo.<BR>Vehículos Cómodos y Seguros: Nuestra flota de vehículos está equipada para ofrecer un viaje seguro y cómodo, con espacio adecuado para tu equipaje.<BR><b>Conductores Profesionales</b>: Nuestros conductores, altamente capacitados, garantizan un viaje tranquilo y eficiente, brindando asistencia en el manejo de tus pertenencias.<BR><b>Puntualidad:</b> Nos esforzamos por ofrecer un servicio puntual, asegurándonos de que llegues al aeropuerto con suficiente tiempo para tu proceso de check-in y seguridad.<BR>Monitoreo de Vuelos: Realizamos un seguimiento constante de los horarios de vuelo, ajustando el servicio según cualquier cambio o retraso.<BR>Este servicio está diseñado para proporcionarte una transición suave entre el hotel y el aeropuerto, permitiéndote disfrutar de la máxima conveniencia en cada etapa de tu viaje.<BR>"
     },
     {
         "id": "Habitaciones con aire acondicionado",
@@ -106,7 +117,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Nuestras habitaciones con aire acondicionado han sido diseñadas para ofrecerte un ambiente de confort óptimo, asegurando que tu estancia sea placentera en cualquier temporada. Este servicio proporciona un control preciso de la temperatura, permitiéndote personalizar el entorno según tus preferencias individuales.</p><p>Características de las Habitaciones con Aire Acondicionado:</p><p><b>Control Individual:</b> Cada habitación está equipada con un sistema de control individual, permitiéndote ajustar la temperatura de acuerdo a tus necesidades y preferencias.</p><p><b>Eficiencia Energética:</b> Nuestros sistemas de aire acondicionado están diseñados para ser eficientes desde el punto de vista energético, brindándote comodidad sin comprometer la sostenibilidad.</p>   <p><b>Silenciosos y Discretos:</b> Los equipos de aire acondicionado en las habitaciones están seleccionados por su funcionamiento silencioso, asegurando un ambiente tranquilo y relajante.</p><p><b>Mantenimiento Regular:</b> Realizamos un mantenimiento periódico para garantizar que los sistemas de aire acondicionado funcionen de manera óptima, asegurando un ambiente fresco y agradable.</p><p><b>Filtración del Aire:</b> Nuestros sistemas incluyen filtros que contribuyen a la calidad del aire, proporcionando un entorno saludable y libre de alérgenos.</p><p>Al ofrecer habitaciones con aire acondicionado, buscamos asegurar que tu descanso sea siempre revitalizante, independientemente de las condiciones climáticas externas, y que tengas el control completo sobre tu entorno de alojamiento.</p>"
     },
     {
         "id": "Television por cable/satelite",
@@ -116,7 +128,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Nuestras habitaciones están equipadas con sistemas de televisión por cable/satélite para ofrecerte una experiencia de entretenimiento variada y de alta calidad durante tu estancia. Este servicio proporciona acceso a una amplia gama de canales y contenido, asegurando que tengas opciones diversas para entretenimiento y noticias.</p><p><b>Características de la Televisión por Cable/Satélite:</b></p><p><b>Variedad de Canales:</b> Disfruta de una amplia selección de canales que abarcan desde noticias y deportes hasta películas, programas de entretenimiento y contenido infantil.</p><p><b>Calidad de Imagen:</b> Nuestros sistemas de televisión garantizan una calidad de imagen nítida y vibrante, optimizando tu experiencia visual.</p><p><b>Canales Internacionales:</b>Ofrecemos canales internacionales para satisfacer las preferencias de nuestros huéspedes de diversas procedencias, facilitando la conexión con programación de todo el mundo.</p><p><b>Guía de Programación:</b> Las habitaciones están equipadas con guías de programación electrónicas que facilitan la navegación y la búsqueda de tus programas favoritos.</p><p><b>Canales de Alta Definición (HD):</b> Disfruta de la máxima calidad de imagen con canales en alta definición, brindándote una experiencia visual envolvente.</p><p>Este servicio está diseñado para proporcionar a nuestros huéspedes opciones de entretenimiento flexibles y adaptadas a sus preferencias individuales, contribuyendo así a una estancia cómoda y agradable.</p>"
     },
     {
         "id": "Servicio de habitaciones las 24 horas",
@@ -126,7 +139,7 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO"
     },
     {
         "id": "WiFi de alta velocidad",
@@ -136,7 +149,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Nuestra red de WiFi de alta velocidad está diseñada para proporcionarte una conexión confiable y rápida durante toda tu estancia. Este servicio está pensado para satisfacer las necesidades de nuestros huéspedes, tanto para actividades de negocios como para el entretenimiento personal, asegurando una experiencia de conectividad sin inconvenientes.</p><p><b>Características del WiFi de Alta Velocidad:</b></p><p><b>Velocidad Rápida y Consistente:</b> Nuestra red garantiza velocidades de conexión rápidas y constantes, permitiéndote navegar por Internet, transmitir contenido multimedia y realizar videoconferencias sin interrupciones.</p><p><b>Conexión Segura:</b> Implementamos medidas de seguridad avanzadas para proteger tu privacidad y garantizar una conexión segura, especialmente importante para transacciones en línea y comunicaciones confidenciales.        </p><p><b>Conectividad Múltiple Dispositivos:</b> Nuestra red está diseñada para admitir la conexión simultánea de varios dispositivos, permitiéndote estar conectado con tus dispositivos personales y profesionales al mismo tiempo.        </p><p><b>Fácil Acceso:</b> El acceso a nuestra red WiFi es sencillo y rápido, con opciones de inicio de sesión que se adaptan a tus preferencias, ya sea a través de una contraseña segura o métodos de autenticación simplificados.        </p><p><b>Soporte Técnico:</b> Nuestro equipo de soporte técnico está disponible para ayudarte en caso de cualquier problema o consulta relacionada con la conectividad, asegurando una experiencia sin complicaciones.        </p><p>Al ofrecer WiFi de alta velocidad, buscamos satisfacer las demandas de conectividad modernas, brindándote la posibilidad de trabajar de forma eficiente, disfrutar de entretenimiento en línea y mantenerse conectado con el mundo digital durante tu estancia en nuestro hotel.</p>"
     },
     {
         "id": "Baño privado con artículos de tocador",
@@ -146,7 +160,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Nuestras habitaciones cuentan con baños privados cuidadosamente equipados, diseñados para proporcionar a nuestros huéspedes un ambiente de comodidad y conveniencia. Este servicio incluye una variedad de artículos de tocador de alta calidad, seleccionados para asegurar una experiencia de cuidado personal completa durante tu estancia.</p><p><b>Características del Baño Privado con Artículos de Tocador:</b></p><p><b>Artículos de Calidad:</b> Proporcionamos artículos de tocador de calidad premium, que incluyen champú, acondicionador, gel de baño, loción corporal y jabón, para satisfacer tus necesidades de cuidado personal.</p><p><b>Variedad de Artículos:</b> Nuestros baños están equipados con una variedad de artículos esenciales, eliminando la necesidad de que traigas ciertos productos de cuidado personal durante tu viaje.</p><p><b>Toallas Suaves y Esponjosas:</b> Ofrecemos toallas suaves y esponjosas para maximizar tu confort después de ducharte o lavarte las manos.</p><p><b>Secador de Pelo:</b> Cada baño cuenta con un secador de pelo para tu conveniencia, evitando la necesidad de llevar uno contigo.</p><p><b>Espejo de Aumento:</b> Para facilitar tus rutinas de cuidado personal, proporcionamos un espejo de aumento que contribuye a una experiencia más detallada.</p><p>Este servicio está diseñado para garantizar que te sientas cómodo y bien atendido durante tu estancia, permitiéndote disfrutar de tus momentos de cuidado personal con la máxima comodidad y facilidad.</p>"
     },
     {
         "id": "Servicio de limpieza diario",
@@ -156,7 +171,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Nuestro servicio de limpieza diario está diseñado para garantizar que cada espacio de tu habitación se mantenga impecable durante toda tu estancia. Nuestro equipo de limpieza, comprometido con altos estándares de higiene, se encarga de realizar las tareas necesarias para mantener un ambiente fresco y acogedor en tu alojamiento.</p><p><b>Características del Servicio de Limpieza Diario:</b></p><p><b>Habitaciones Impecables:</b> Cada día, nuestras profesionales de limpieza se aseguran de que tu habitación esté limpia y ordenada, creando un entorno agradable y acogedor.</p><p><b>Cambio de Ropa de Cama:</b> Se realiza el cambio regular de sábanas y fundas de almohadas para proporcionar una sensación de frescura y limpieza.</p><p><b>Toallas Frescas:</b> Las toallas se reemplazan según sea necesario, garantizando que siempre dispongas de toallas limpias y esponjosas.</p><p><b>Limpieza de Superficies:</b> Se lleva a cabo la limpieza de todas las superficies, incluyendo mesas, escritorios, y áreas de trabajo, para garantizar un entorno higiénico.</p><p><b>Baños Impecables:</b> Los baños se higienizan a fondo, incluyendo la limpieza de inodoros, lavabos y duchas, para proporcionar un espacio de aseo impecable.</p><p><b>Reposición de Artículos de Tocador:</b> Se reponen los artículos de tocador según sea necesario, asegurando que siempre tengas a tu disposición productos frescos y suficientes.</p><p>Este servicio está diseñado para brindarte la máxima comodidad y asegurar que tu alojamiento se mantenga en condiciones óptimas a lo largo de tu estancia. Nos esforzamos por superar tus expectativas en términos de limpieza y cuidado, contribuyendo así a una experiencia hotelera sin preocupaciones."
     },
     {
         "id": "Caja fuerte en la habitacion",
@@ -166,7 +182,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "MEMBRESIA VIP",
+        "descripcion": "<p>Para garantizar la seguridad de tus objetos de valor, todas nuestras habitaciones cuentan con una caja fuerte incorporada. Este servicio te brinda la tranquilidad de almacenar tus pertenencias de forma segura y acceder a ellas de manera conveniente durante tu estancia.</p><p><b>Características de la Caja Fuerte en la Habitación:</b></p><p><b>Acceso Seguro:</b> La caja fuerte proporciona un método seguro y protegido para almacenar objetos de valor, documentos importantes y dispositivos electrónicos.</p><p><b>Fácil de Usar:</b> Diseñada para ser intuitiva y de fácil uso, la caja fuerte en la habitación permite que accedas a tus pertenencias de manera rápida y sencilla.</p><p><b>Código Personalizado:</b> Puedes establecer tu propio código personalizado para garantizar la privacidad y la seguridad de tus pertenencias almacenadas.</p><p><b>Tamaño Adecuado:</b> La caja fuerte está dimensionada para acomodar dispositivos electrónicos, documentos y objetos de valor de diversos tamaños, proporcionando versatilidad en su uso.</p><p><b>Incluido en el Precio:</b> La caja fuerte en la habitación está incluida en el precio de tu estancia, ofreciéndote este servicio esencial sin costo adicional.</p><p>Con nuestro servicio de caja fuerte en la habitación, nos comprometemos a salvaguardar tus pertenencias más valiosas, proporcionándote tranquilidad y seguridad durante tu estancia en nuestro hotel.</p>"
     },
     {
         "id": "Mini bar",
@@ -176,7 +193,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "DESCUENTOS MEMBRESIA VIP",
+        "descripcion": "<p>Nuestras habitaciones están equipadas con mini bares para proporcionarte comodidad y conveniencia directamente en tu espacio privado. Este servicio te brinda la oportunidad de disfrutar de una selección variada de bebidas y aperitivos sin salir de la comodidad de tu habitación.</p><p><b>Características del Mini Bar:</b></p><p><b>Variedad de Bebidas:</b> Encuentra una selección de bebidas que incluye agua, refrescos, jugos y opciones de bebidas alcohólicas para satisfacer tus preferencias personales.</p><p><b>Aperitivos y Tentempiés:</b> Además de bebidas, el mini bar ofrece una variedad de aperitivos y tentempiés para satisfacer tus antojos en cualquier momento del día.</p><p><b>Reposición Diaria:</b> Nuestro personal realiza reposiciones diarias del mini bar, asegurando que siempre encuentres opciones frescas y listas para disfrutar.</p><p><b>Control Personalizado:</b> Puedes controlar y personalizar el contenido del mini bar según tus preferencias y necesidades específicas.</p><p><b>Costo Adicional:</b> Ten en cuenta que el mini bar conlleva un costo adicional, que se reflejará en tu factura al momento del check-out.</p><p>Disfruta de la comodidad de tener tus bebidas y aperitivos favoritos al alcance de tu mano con nuestro servicio de mini bar, diseñado para mejorar tu experiencia en la habitación.</p>"
     },
     {
         "id": "Telefono directo",
@@ -186,7 +204,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Cada una de nuestras habitaciones está equipada con un teléfono directo para proporcionarte una comunicación rápida y eficiente durante tu estancia. Este servicio te permite contactar fácilmente con el personal del hotel, realizar llamadas locales y disfrutar de la comodidad de una comunicación directa desde tu habitación.</p><p><b>Características del Teléfono Directo:</b></p><p><b>Comunicación Rápida:</b> Accede a una comunicación rápida y directa con el personal del hotel para solicitar servicios, hacer preguntas o recibir asistencia.</p><p><b>Llamadas Locales Gratuitas:</b> Disfruta de la conveniencia de realizar llamadas locales gratuitas directamente desde tu habitación.</p><p><b>Directorio de Servicios:</b> El teléfono incluye un directorio de servicios del hotel para que puedas acceder fácilmente a información importante.</p><p><b>Recepción 24/7:</b> Nuestro servicio de recepción está disponible las 24 horas del día para atender tus necesidades a través del teléfono directo.</p><p><b>Función de Despertador:</b> Utiliza la función de despertador del teléfono para asegurarte de no perder eventos importantes o actividades planificadas.</p><p><b>Incluido en el Precio:</b> El uso del teléfono directo está incluido en el precio de tu estancia, ofreciéndote esta herramienta de comunicación sin costo adicional.</p><p>Con nuestro servicio de teléfono directo, te proporcionamos una herramienta esencial para mantener una comunicación eficiente y conveniente durante tu estancia en nuestro hotel.</p>"
     },
     {
         "id": "Vistas panoramicas",
@@ -196,7 +215,8 @@
             "nombre": "Alojamiento",
             "id": "Alojamiento"
         },
-        "precio": " gratis"
+        "precio": "Variacion segun habitacion",
+        "descripcion": "<p>Disfruta de impresionantes vistas panorámicas desde nuestras habitaciones seleccionadas. Este servicio exclusivo te ofrece la oportunidad de contemplar paisajes impresionantes y experiencias visuales únicas directamente desde la comodidad de tu alojamiento.</p><p><b>Características de las Vistas Panorámicas:</b></p><p><b>Habitaciones Seleccionadas:</b> Las vistas panorámicas están disponibles en habitaciones específicas, brindándote la posibilidad de elegir un alojamiento con vistas que se adapten a tus preferencias.</p><p><b>Paisajes Increíbles:</b> Contempla paisajes urbanos, vistas al mar, montañas o cualquier entorno natural que rodee nuestro hotel, proporcionando una experiencia visual única.</p><p><b>Disponibilidad Limitada:</b> Debido a la exclusividad de este servicio, la disponibilidad de habitaciones con vistas panorámicas puede ser limitada. Te recomendamos reservar con anticipación.</p><p><b>Experiencia Inolvidable:</b> Las vistas panorámicas ofrecen una experiencia visual inolvidable, creando recuerdos que perdurarán mucho después de tu estancia.</p><p><b>Varía según la Habitación:</b> El costo adicional por habitaciones con vistas panorámicas puede variar según la habitación seleccionada. Consulta al realizar tu reserva.</p><p>Si buscas añadir un toque especial a tu estancia con vistas que te dejen sin aliento, nuestras habitaciones con vistas panorámicas son la elección perfecta para una experiencia visual única y memorable.</p>"
     },
     {
         "id": "Restaurante gourmet en el lugar",
@@ -206,7 +226,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Sumérgete en una experiencia culinaria excepcional sin salir de nuestro hotel. Nuestro restaurante gourmet en el lugar te invita a disfrutar de platos exquisitos preparados por chefs de renombre, ofreciendo una combinación única de sabores, presentación artística y un ambiente sofisticado.</p><p><b>Características del Restaurante Gourmet en el Lugar:</b></p><p><b>Gastronomía de Alta Calidad:</b> Experimenta la excelencia culinaria con platos cuidadosamente elaborados con ingredientes frescos y de alta calidad.</p><p><b>Carta de Vinos Selecta:</b> Acompaña tu comida con una selección de vinos finos de nuestra carta, elegidos para realzar los sabores de cada plato.</p><p><b>Ambiente Sofisticado:</b> Nuestro restaurante ofrece un ambiente elegante y acogedor, perfecto para cenas románticas, celebraciones especiales o simplemente disfrutar de una comida excepcional.</p><p><b>Servicio de Alta Calidad:</b> Nuestro personal capacitado y atento está comprometido a proporcionarte un servicio de alta calidad, garantizando una experiencia gastronómica inolvidable.</p><p><b>Reservas Recomendadas:</b> Debido a la popularidad de nuestro restaurante gourmet, se recomienda realizar reservas con anticipación para asegurar tu lugar.</p><p><b>Costo Adicional:</b> Ten en cuenta que el acceso al restaurante gourmet puede conllevar un costo adicional. Consulta al realizar tu reserva.</p><p>Descubre la deliciosa fusión de sabores en nuestro restaurante gourmet en el lugar, donde la pasión por la gastronomía se combina con la elegancia para crear una experiencia única para los amantes de la buena comida.</p>"
     },
     {
         "id": "Desayuno buffet",
@@ -216,7 +237,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Comienza tu día con una experiencia culinaria excepcional en nuestro desayuno buffet. Este servicio, incluido en tu estadía, te ofrece una amplia variedad de opciones deliciosas que satisfarán todos los gustos y preferencias, brindándote la energía necesaria para disfrutar plenamente de tu jornada.</p><p><b>Características del Desayuno Buffet:</b></p><p><b>Variedad de Opciones:</b> Disfruta de una extensa selección de platos, desde opciones saludables como frutas frescas y yogur hasta delicias más indulgentes como pasteles y opciones saladas.</p><p><b>Cocina en Vivo:</b> Algunas estaciones del buffet ofrecen cocina en vivo, donde nuestros chefs preparan platos frescos y personalizados según tus preferencias.</p><p><b>Bebidas Calientes y Frías:</b> Acompaña tu desayuno con una variedad de bebidas, incluyendo café, té, jugos frescos y otras opciones refrescantes.</p><p><b>Ambiente Agradable:</b> Disfruta de tu desayuno en un ambiente acogedor y relajado, ya sea en el comedor interior o al aire libre, dependiendo de tus preferencias.</p><p><b>Atención Personalizada:</b> Nuestro personal está disponible para brindarte atención personalizada y asegurarse de que tu experiencia en el desayuno sea impecable.</p><p><b>Disponible sin Costo Adicional:</b> El desayuno buffet está incluido en el precio de tu estadía, ofreciéndote una experiencia culinaria excepcional sin costo adicional.</p><p>Explora una variedad de sabores y disfruta de la frescura de los ingredientes en nuestro desayuno buffet, una manera perfecta de comenzar tus días durante tu estancia en nuestro hotel.</p>"
     },
     {
         "id": "Bar con cocteles especializados",
@@ -226,7 +248,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Explora el arte de la mixología en nuestro bar con cócteles especializados, donde los expertos bartenders crean bebidas únicas que cautivarán tus sentidos. Sumérgete en un ambiente relajado y social, perfecto para disfrutar de momentos memorables con amigos o para simplemente deleitarte con la magia de los sabores.</p><p><b>Características del Bar con Cócteles Especializados:</b></p><p><b>Cócteles Creativos:</b> Descubre una variedad de cócteles creativos y únicos, elaborados con destreza y presentación artística.</p><p><b>Ambiente Social:</b> Nuestro bar ofrece un ambiente acogedor y social, ideal para encuentros informales, celebraciones o simplemente disfrutar de una experiencia de cócteles única.</p><p><b>Selección Premium:</b> Disfruta de una selección premium de licores y ingredientes frescos, garantizando la calidad y exquisitez de cada bebida.</p><p><b>Música Ambiente:</b> El bar cuenta con música ambiente cuidadosamente seleccionada para complementar la experiencia, creando un entorno agradable y vibrante.</p><p><b>Eventos Especiales:</b> Periodicamente, organizamos eventos especiales en el bar, como noches temáticas o degustaciones, para añadir un toque extra de diversión y variedad.</p><p><b>Costo Adicional:</b> Ten en cuenta que el acceso al bar con cócteles especializados puede conllevar un costo adicional. Consulta al visitarnos.</p><p>Embárcate en un viaje sensorial en nuestro bar con cócteles especializados, donde cada sorbo es una experiencia única y cada encuentro es una celebración de los placeres de la vida.</p>"
     },
     {
         "id": "Opciones de menu para dietas especiales",
@@ -236,7 +259,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": " gratis",
+        "descripcion": "<p>En nuestro restaurante, nos esforzamos por atender las necesidades dietéticas específicas de nuestros huéspedes. Ofrecemos opciones de menú especialmente diseñadas para adaptarse a diversas dietas, garantizando una experiencia culinaria deliciosa y adaptada a tus preferencias alimenticias.</p><p><b>Características de las Opciones de Menú para Dietas Especiales:</b></p><p><b>Variedad de Dietas:</b> Nuestro menú incluye opciones adaptadas para diversas necesidades dietéticas, como vegetarianas, veganas, sin gluten, entre otras.</p><p><b>Ingredientes Frescos y Saludables:</b> Utilizamos ingredientes frescos y saludables en la preparación de nuestras opciones para garantizar una alimentación equilibrada y deliciosa.</p><p><b>Asesoramiento del Chef:</b> Si tienes necesidades dietéticas específicas, nuestro chef está disponible para proporcionarte asesoramiento y adaptar platos según tus preferencias.</p><p><b>Información Nutricional:</b> Proporcionamos información nutricional detallada para cada plato, permitiéndote tomar decisiones informadas sobre tu elección de alimentos.</p><p><b>Sin Costo Adicional:</b> Las opciones de menú para dietas especiales están disponibles sin costo adicional, asegurando que todos los huéspedes puedan disfrutar de una experiencia gastronómica excepcional.</p><p><b>Reservas Especiales:</b> Al realizar tu reserva, puedes informarnos sobre tus necesidades dietéticas para garantizar que tengamos opciones adecuadas preparadas para tu visita.</p><p>En nuestro compromiso de brindar experiencias culinarias inclusivas, las opciones de menú para dietas especiales reflejan nuestro deseo de satisfacer a todos nuestros huéspedes con platos deliciosos y adaptados a sus necesidades alimenticias únicas.</p>"
     },
     {
         "id": "Area de comedor al aire libre",
@@ -246,7 +270,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Disfruta de tus comidas en un entorno encantador y al aire libre en nuestra área de comedor al aire libre. Este espacio acogedor te permite deleitarte con tus platos favoritos mientras disfrutas de la brisa fresca y el ambiente relajado en medio de un entorno natural.</p><p><b>Características del Área de Comedor al Aire Libre:</b></p><p><b>Entorno Natural:</b> Nuestro espacio de comedor al aire libre está diseñado para integrarse armoniosamente con el entorno natural circundante, creando una experiencia única.</p><p><b>Amplia Variedad de Platos:</b> Ofrecemos la misma variedad de deliciosos platos en el área de comedor al aire libre, brindándote la libertad de elegir entre opciones gourmet y clásicas.</p><p><b>Mesas y Asientos Cómodos:</b> Las mesas y asientos están diseñados para brindar comodidad, permitiéndote disfrutar de una experiencia de comida relajada y agradable.</p><p><b>Atardeceres Pintorescos:</b> Si decides cenar en la tarde, podrás disfrutar de atardeceres pintorescos y vistas impresionantes mientras saboreas tu comida.</p><p><b>Disponible sin Costo Adicional:</b> El acceso al área de comedor al aire libre está disponible sin costo adicional, ofreciéndote una opción adicional para disfrutar de tus comidas de una manera especial.</p><p><b>Eventos al Aire Libre:</b> Ocasionalmente, organizamos eventos especiales, como cenas temáticas o música en vivo, en el área de comedor al aire libre para agregar un toque extra de diversión y entretenimiento.</p><p>Vive una experiencia gastronómica única y relajada en nuestro hermoso espacio de comedor al aire libre, donde la buena comida se combina con un entorno encantador para crear recuerdos inolvidables.</p>"
     },
     {
         "id": "Eventos gastronomicos tematicos",
@@ -256,7 +281,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Sumérgete en experiencias culinarias únicas y emocionantes a través de nuestros eventos gastronómicos temáticos. Estos eventos especiales ofrecen una oportunidad extraordinaria para explorar sabores, técnicas de cocina y platos exclusivos, todo cuidadosamente diseñado para deleitar tus sentidos y crear momentos memorables.</p><p><b>Características de los Eventos Gastronómicos Temáticos:</b></p><p><b>Temáticas Variadas:</b> Desde noches de cocina internacional hasta celebraciones de festivales gastronómicos, nuestros eventos temáticos ofrecen una amplia variedad de experiencias culinarias.</p><p><b>Menús Exclusivos:</b> Cada evento presenta un menú exclusivo, con platos cuidadosamente seleccionados para reflejar la temática y sorprender a los comensales.</p><p><b>Chefs Invitados:</b> En algunos eventos, contamos con la participación de chefs invitados, expertos en la temática, que aportan su talento y creatividad a la experiencia culinaria.</p><p><b>Maridaje de Vinos y Bebidas:</b> Complementa la experiencia gastronómica con maridajes de vinos y bebidas cuidadosamente seleccionados para realzar los sabores de cada plato.</p><p><b>Entretenimiento en Vivo:</b> Algunos eventos gastronómicos temáticos incluyen entretenimiento en vivo, como música o demostraciones culinarias, para añadir un toque extra de diversión y emoción.</p><p><b>Costo Adicional:</b> La participación en eventos gastronómicos temáticos puede conllevar un costo adicional, que varía según la temática y la experiencia ofrecida. Consulta al realizar tu reserva.</p><p>Explora el mundo de la gastronomía a través de nuestros eventos gastronómicos temáticos, donde cada bocado es una aventura y cada evento es una celebración de la pasión por la buena comida.</p>"
     },
     {
         "id": "Catering para eventos",
@@ -266,7 +292,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "Costo segun evento",
+        "descripcion": "<p>Eleva la calidad de tus eventos con nuestro servicio de catering personalizado. Ya sea una reunión empresarial, una celebración especial o cualquier otro evento, nuestro equipo de catering se encarga de proporcionar experiencias culinarias excepcionales que deleitarán a tus invitados y crearán recuerdos duraderos.</p><p><b>Características del Catering para Eventos:</b></p><p><b>Menús Personalizados:</b> Trabajamos contigo para crear menús personalizados que se adapten a tus preferencias, necesidades dietéticas y estilo del evento.</p><p><b>Variedad de Opciones:</b> Desde aperitivos y platos principales hasta postres y bebidas, ofrecemos una amplia variedad de opciones para satisfacer todos los gustos.</p><p><b>Servicio Profesional:</b> Nuestro equipo de catering profesional se encarga de la presentación impecable, la atención al detalle y el servicio excepcional durante el evento.</p><p><b>Ubicación Flexible:</b> Nos adaptamos a la ubicación de tu evento, ya sea en nuestro espacio para eventos o en el lugar de tu elección, para brindarte la máxima comodidad.</p><p><b>Decoración y Presentación:</b> Cuidamos la decoración y presentación de cada plato, asegurando una experiencia gastronómica visualmente atractiva y sofisticada.</p><p><b>Atención a Invitados Especiales:</b> Nos ocupamos de las necesidades alimenticias específicas de tus invitados, garantizando una experiencia inclusiva para todos.</p><p><b>Costo Personalizado:</b> El costo del servicio de catering para eventos se personaliza según las necesidades y requerimientos específicos del evento. Solicita una cotización personalizada.</p><p>Con nuestro servicio de catering para eventos, transformamos cada ocasión en una experiencia culinaria excepcional, proporcionando un toque especial que destaca la importancia de tu evento.</p>"
     },
     {
         "id": "Menus para niños",
@@ -276,7 +303,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Garantizamos que los más pequeños también disfruten de una experiencia culinaria especial con nuestros menús para niños. Diseñados pensando en sus gustos y necesidades, estos menús ofrecen opciones deliciosas y equilibradas que satisfarán el apetito de los niños y añadirán un toque de diversión a sus comidas.</p><p><b>Características de los Menús para Niños:</b></p><p><b>Opciones Atractivas:</b> Nuestros menús para niños presentan opciones atractivas y sabrosas que son especialmente seleccionadas para agradar a los pequeños comensales.</p><p><b>Variedad de Platillos:</b> Desde platos clásicos favoritos hasta opciones más saludables, ofrecemos una variedad de platillos que se adaptan a diferentes gustos y preferencias.</p><p><b>Porciones Ajustadas:</b> Las porciones de los menús para niños están ajustadas a las necesidades y apetitos de los más pequeños, garantizando una experiencia de comida cómoda y satisfactoria.</p><p><b>Incluido en la Estadía:</b> Los menús para niños están incluidos en la estadía, asegurando que los padres disfruten de una experiencia culinaria sin preocupaciones adicionales.</p><p><b>Opciones de Bebidas y Postres:</b> Además de los platillos principales, nuestros menús para niños incluyen opciones de bebidas y postres diseñados para complacer los paladares jóvenes.</p><p><b>Atención a Alergias y Preferencias:</b> Nos aseguramos de atender las alergias alimentarias y preferencias específicas, proporcionando opciones adaptadas a las necesidades individuales de cada niño.</p><p><b>Entorno Familiar:</b> Nuestro restaurante cuenta con un entorno familiar y acogedor, perfecto para que los niños disfruten de sus comidas de manera cómoda y relajada.</p><p>Con nuestros menús para niños, nos esforzamos por hacer que cada comida sea una experiencia agradable y deliciosa, asegurando que los más pequeños también se sientan bienvenidos y atendidos durante su estancia.</p>"
     },
     {
         "id": "Servicio de bar en la piscina",
@@ -286,7 +314,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Disfruta de momentos refrescantes y relajados con nuestro servicio de bar en la piscina, diseñado para brindarte la máxima comodidad mientras te sumerges en la experiencia tropical. Nuestro personal experto en mixología estará encantado de servirte una variedad de bebidas exquisitas mientras disfrutas del sol y la piscina.</p><p><b>Características del Servicio de Bar en la Piscina:</b></p><p><b>Variedad de Bebidas:</b> Desde cócteles tropicales hasta bebidas sin alcohol, nuestro servicio de bar en la piscina ofrece una amplia variedad de opciones para satisfacer todos los gustos.</p><p><b>Atención Personalizada:</b> Nuestro personal capacitado en mixología se asegura de proporcionarte un servicio personalizado, atendiendo a tus preferencias y creando experiencias de bebida a medida.</p><p><b>Ambiente Relajado:</b> Sumérgete en un ambiente relajado y tropical mientras disfrutas de tus bebidas favoritas junto a la piscina, con cómodas zonas de descanso y sombrillas para tu comodidad.</p><p><b>Snacks Ligeros:</b> Además de las bebidas, nuestro servicio de bar en la piscina ofrece opciones de snacks ligeros para complementar tu experiencia y mantener la energía.</p><p><b>Música Ambiente:</b> Ambientamos el área de la piscina con música seleccionada cuidadosamente, creando un entorno agradable y vibrante para disfrutar de tus momentos al sol.</p><p><b>Costo Adicional:</b> Ten en cuenta que el acceso al servicio de bar en la piscina puede conllevar un costo adicional. Consulta al visitarnos.</p><p>Sumérgete en el lujo y la comodidad con nuestro servicio de bar en la piscina, donde cada sorbo es una indulgencia y cada momento es una celebración de la vida tropical.</p>"
     },
     {
         "id": "Vistas panoramicas",
@@ -296,7 +325,8 @@
             "nombre": "Restaurante y Bar",
             "id": "Restaurante y Bar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Disfruta de impresionantes vistas panorámicas desde la comodidad de tu habitación. Nuestro hotel ofrece habitaciones estratégicamente diseñadas para brindarte una experiencia visual única, permitiéndote contemplar paisajes espectaculares y crear recuerdos inolvidables durante tu estancia.</p><p><b>Características de las Vistas Panorámicas:</b></p><p><b>Vistas Espectaculares:</b> Desde montañas majestuosas hasta horizontes urbanos, nuestras habitaciones con vistas panorámicas te ofrecen una perspectiva excepcional del entorno circundante.</p><p><b>Amplias Ventanas:</b> Las habitaciones están equipadas con amplias ventanas que permiten una abundante entrada de luz natural y enmarcan las vistas panorámicas, creando un ambiente luminoso y acogedor.</p><p><b>Selección de Ubicaciones:</b> Ofrecemos una variedad de habitaciones con vistas panorámicas, permitiéndote elegir la ubicación que mejor se adapte a tus preferencias, ya sea con vistas al mar, a la ciudad o a la naturaleza circundante.</p><p><b>Disfrute Privado:</b> Las vistas panorámicas pueden ser disfrutadas desde la privacidad de tu habitación, brindándote momentos de tranquilidad y contemplación sin salir de tu alojamiento.</p><p><b>Incluido en la Estadía:</b> La experiencia de vistas panorámicas está incluida en el precio de tu estadía, agregando un valor adicional a tu experiencia en nuestro hotel.</p><p><b>Atardeceres Inolvidables:</b> Si eliges una habitación con vistas al oeste, podrás disfrutar de atardeceres inolvidables que pintan el cielo con tonalidades cálidas y vibrantes.</p><p>Vive la magia de las vistas panorámicas en nuestro hotel, donde cada ventana es un cuadro en movimiento y cada momento es una oportunidad para apreciar la belleza que te rodea.</p>"
     },
     {
         "id": "Spa con servicio completo",
@@ -306,7 +336,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Sumérgete en un oasis de relajación y rejuvenecimiento con nuestro spa con servicio completo. Diseñado para ofrecerte una experiencia de bienestar integral, nuestro spa cuenta con instalaciones de primera clase, terapeutas expertos y una variedad de tratamientos que te permitirán escapar del estrés diario y revitalizar tu cuerpo y mente.</p><p><b>Características del Spa con Servicio Completo:</b></p><p><b>Variedad de Tratamientos:</b> Desde masajes terapéuticos hasta tratamientos faciales y corporales, nuestro spa ofrece una amplia variedad de opciones diseñadas para satisfacer tus necesidades específicas de relajación y cuidado personal.</p><p><b>Instalaciones de Lujo:</b> Nuestro spa cuenta con instalaciones de lujo, incluyendo saunas, jacuzzis, salas de vapor y áreas de relajación, proporcionándote un entorno tranquilo y rejuvenecedor.</p><p><b>Terapeutas Profesionales:</b> Nuestro equipo de terapeutas altamente capacitados y profesionales se asegura de brindarte tratamientos de alta calidad, adaptados a tus preferencias y necesidades individuales.</p><p><b>Paquetes Personalizados:</b> Ofrecemos paquetes personalizados que combinan varios tratamientos para una experiencia de spa completa y personalizada, permitiéndote disfrutar de un día completo de relajación.</p><p><b>Atención Individualizada:</b> Nos esforzamos por proporcionar atención individualizada, asegurándonos de que cada visita al spa sea una experiencia única y adaptada a tus expectativas.</p><p><b>Reservas Privadas:</b> Puedes reservar sesiones privadas para disfrutar de la tranquilidad del spa en un entorno exclusivo, añadiendo un toque adicional de intimidad y comodidad.</p><p><b>Costo Adicional:</b> El acceso al spa con servicio completo puede conllevar un costo adicional. Consulta nuestras tarifas al hacer tu reserva.</p><p>Embárcate en un viaje de rejuvenecimiento y bienestar en nuestro spa con servicio completo, donde cada tratamiento es una escapada revitalizante y cada visita es una inversión en tu salud y relajación.</p>"
     },
     {
         "id": "Gimnasio con entrenadores personales",
@@ -316,7 +347,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Alcanza tus metas de fitness y bienestar con nuestro gimnasio equipado con entrenadores personales. Diseñado para ofrecerte una experiencia de ejercicio personalizada, nuestro gimnasio cuenta con instalaciones modernas, equipos de última generación y entrenadores expertos que te guiarán para lograr tus objetivos de forma efectiva y segura.</p><p><b>Características del Gimnasio con Entrenadores Personales:</b></p><p><b>Equipamiento de Calidad:</b> Nuestro gimnasio cuenta con equipos de fitness de última generación, incluyendo máquinas cardiovasculares, pesas libres y maquinaria especializada para ofrecerte una experiencia de ejercicio completa.</p><p><b>Entrenadores Personales:</b> Nuestros entrenadores personales altamente calificados están disponibles para brindarte asesoramiento experto, diseñar programas de entrenamiento personalizados y motivarte durante tu rutina de ejercicios.</p><p><b>Programas de Entrenamiento:</b> Ofrecemos una variedad de programas de entrenamiento adaptados a diferentes niveles de condición física y objetivos, desde entrenamiento de fuerza hasta clases de cardio y entrenamiento funcional.</p><p><b>Áreas Especializadas:</b> Además de la zona de pesas y cardio, nuestro gimnasio puede incluir áreas especializadas, como salas de yoga o espacios para entrenamiento funcional, para satisfacer tus preferencias de ejercicio.</p><p><b>Horarios Flexibles:</b> El gimnasio está abierto en horarios flexibles para adaptarse a tu agenda, permitiéndote ejercitarte en el momento que más te convenga.</p><p><b>Monitoreo de Progresos:</b> Nuestros entrenadores personales realizan un seguimiento de tus progresos, ajustando tus programas de entrenamiento según sea necesario para garantizar resultados efectivos y sostenibles.</p><p><b>Incluido en la Estadía:</b> El acceso al gimnasio con entrenadores personales está incluido en el precio de tu estadía, brindándote una oportunidad excepcional para mantener tu bienestar durante tu visita.</p><p>Logra tus objetivos fitness con el apoyo de nuestros entrenadores personales en un entorno motivador y equipado, donde cada sesión de ejercicio es un paso más hacia una vida activa y saludable.</p>"
     },
     {
         "id": "Piscina cubierta y al aire libre",
@@ -326,7 +358,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Sumérgete en la experiencia única de nuestras piscinas, diseñadas para ofrecerte la máxima relajación y diversión. Contamos con una piscina cubierta y otra al aire libre, brindándote opciones para disfrutar del agua sin importar las condiciones climáticas, creando un ambiente acuático perfecto para tus momentos de esparcimiento.</p><p><b>Características de la Piscina Cubierta y al Aire Libre:</b></p><p><b>Relajación Todo el Año:</b> Disfruta de la piscina cubierta en cualquier estación, permitiéndote relajarte y nadar incluso cuando las condiciones climáticas exteriores no son ideales.</p><p><b>Entorno Tropical al Aire Libre:</b> Sumérgete en el ambiente al aire libre de nuestra piscina exterior, rodeada de exuberante vegetación y creando una experiencia tropical bajo el sol.</p><p><b>Zonas de Descanso:</b> Ambas piscinas cuentan con áreas de descanso, tumbonas y sombrillas, para que puedas relajarte cómodamente antes o después de tu tiempo en el agua.</p><p><b>Actividades Recreativas:</b> Organizamos actividades recreativas tanto en la piscina cubierta como en la al aire libre, brindándote opciones para disfrutar de momentos divertidos en el agua.</p><p><b>Vistas Panorámicas:</b> Algunas áreas de nuestras piscinas ofrecen vistas panorámicas, añadiendo un toque escénico a tu experiencia y creando un ambiente relajante y visualmente atractivo.</p><p><b>Horarios Flexibles:</b> Las piscinas están disponibles en horarios flexibles, permitiéndote disfrutar de un chapuzón refrescante en el momento que mejor se adapte a tu itinerario.</p><p><b>Incluido en la Estadía:</b> El acceso a nuestras piscinas, tanto la cubierta como la al aire libre, está incluido en el precio de tu estadía, ofreciéndote la oportunidad de disfrutar de estas instalaciones sin costo adicional.</p><p>Embárcate en una experiencia acuática única con nuestras piscinas cubierta y al aire libre, donde cada chapuzón es una indulgencia y cada momento junto al agua es una fuente de relajación y alegría.</p>"
     },
     {
         "id": "Jacuzzi y sauna",
@@ -336,7 +369,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Sumérgete en la relajación total con nuestro exclusivo servicio de jacuzzi y sauna. Diseñado para proporcionarte un escape revitalizante, nuestro jacuzzi ofrece burbujas relajantes, mientras que la sauna te brinda la experiencia de calor seco, ambos contribuyendo a mejorar tu bienestar físico y mental.</p><p><b>Características del Jacuzzi y Sauna:</b></p><p><b>Jacuzzi con Burbujas Relajantes:</b> Nuestro jacuzzi está equipado con burbujas que generan un masaje suave y relajante, ofreciéndote un oasis de calma y alivio del estrés.</p><p><b>Sauna con Calor Seco:</b> La sauna proporciona calor seco, ayudando a relajar los músculos, aliviar tensiones y mejorar la circulación sanguínea, promoviendo así el bienestar físico.</p><p><b>Zonas de Descanso:</b> Ambas instalaciones cuentan con zonas de descanso cómodas, permitiéndote relajarte antes o después de tu sesión en el jacuzzi o sauna.</p><p><b>Beneficios para la Piel:</b> Tanto el jacuzzi como la sauna ofrecen beneficios para la piel, ayudando a limpiar los poros, mejorar la circulación y proporcionar una sensación general de frescura y rejuvenecimiento.</p><p><b>Disponibilidad Todo el Año:</b> Tanto el jacuzzi como la sauna están disponibles durante todo el año, brindándote la oportunidad de disfrutar de sus beneficios en cualquier estación.</p><p><b>Incluido en la Estadía:</b> El acceso al jacuzzi y sauna está incluido en el precio de tu estadía, permitiéndote disfrutar de estos servicios sin costo adicional.</p><p><b>Reservas Privadas:</b> Puedes reservar sesiones privadas en el jacuzzi y sauna para una experiencia más exclusiva, garantizando tu privacidad y comodidad.</p><p>Descubre el equilibrio perfecto entre relajación y rejuvenecimiento con nuestro servicio de jacuzzi y sauna, donde cada sesión es un paso hacia el bienestar integral.</p>"
     },
     {
         "id": "Clases de yoga y fitness",
@@ -346,7 +380,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Embárcate en un viaje de bienestar y vitalidad con nuestras clases de yoga y fitness. Diseñadas para todos los niveles de condición física, nuestras clases te ofrecen la oportunidad de fortalecer tu cuerpo, mejorar la flexibilidad y encontrar la armonía entre mente y cuerpo, todo bajo la guía de instructores expertos.</p><p><b>Características de las Clases de Yoga y Fitness:</b></p><p><b>Variedad de Clases:</b> Ofrecemos una variedad de clases, desde yoga relajante hasta entrenamiento de fuerza y acondicionamiento físico, para satisfacer diferentes objetivos y preferencias de los participantes.</p><p><b>Instructores Expertos:</b> Nuestros instructores son expertos en sus campos, brindando orientación profesional y ajustando las clases según las necesidades individuales de los participantes.</p><p><b>Clases para Todos los Niveles:</b> Ya seas principiante o avanzado, nuestras clases están diseñadas para adaptarse a todos los niveles de condición física, proporcionando opciones para desafiar y mejorar tus habilidades.</p><p><b>Horarios Flexibles:</b> Las clases de yoga y fitness están programadas en horarios flexibles, permitiéndote integrarlas fácilmente en tu rutina diaria durante tu estadía.</p><p><b>Beneficios para la Salud:</b> Participar en clases regulares de yoga y fitness puede contribuir a mejorar la fuerza, la flexibilidad, la concentración mental y el bienestar general.</p><p><b>Entorno Relajante:</b> Las clases se llevan a cabo en entornos relajantes, ya sea en espacios al aire libre o en salas especialmente diseñadas, proporcionando un ambiente propicio para la práctica del yoga y el fitness.</p><p><b>Incluido en la Estadía:</b> El acceso a nuestras clases de yoga y fitness está incluido en el precio de tu estadía, brindándote la oportunidad de participar en estas actividades sin costo adicional.</p><p>Descubre los beneficios transformadores de las clases de yoga y fitness en nuestro hotel, donde cada sesión es una oportunidad para cultivar tu bienestar y encontrar equilibrio en cuerpo y mente.</p>"
     },
     {
         "id": "Tratamientos de belleza",
@@ -356,7 +391,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Disfruta de la indulgencia y el cuidado personal con nuestra gama de tratamientos de belleza diseñados para realzar tu luminosidad y promover la relajación. Nuestro equipo de profesionales de belleza está dedicado a proporcionarte una experiencia de tratamiento personalizada que te deje sintiéndote renovado y rejuvenecido.</p><p><b>Características de los Tratamientos de Belleza:</b></p><p><b>Variedad de Servicios:</b> Ofrecemos una variedad de tratamientos de belleza, desde faciales y exfoliaciones hasta masajes relajantes y servicios de manicura y pedicura, para satisfacer todas tus necesidades de cuidado personal.</p><p><b>Productos de Calidad:</b> Utilizamos productos de belleza de alta calidad y técnicas especializadas para garantizar resultados efectivos y una experiencia indulgente.</p><p><b>Consulta Personalizada:</b> Antes de cada tratamiento, ofrecemos consultas personalizadas para entender tus preferencias y necesidades, adaptando el servicio para brindarte la mejor experiencia posible.</p><p><b>Relajación Profunda:</b> Nuestros tratamientos están diseñados no solo para mejorar la apariencia, sino también para inducir la relajación profunda, permitiéndote disfrutar de un momento de cuidado personal y tranquilidad.</p><p><b>Paquetes Especiales:</b> Ofrecemos paquetes especiales que combinan varios tratamientos para una experiencia completa de belleza y bienestar, permitiéndote disfrutar de una indulgencia completa.</p><p><b>Profesionales Certificados:</b> Nuestro equipo de profesionales de belleza está certificado y altamente capacitado, garantizando un servicio seguro y de alta calidad.</p><p><b>Costo Adicional:</b> Ten en cuenta que los tratamientos de belleza pueden conllevar un costo adicional. Consulta nuestras tarifas al hacer tu reserva.</p><p>Sumérgete en la experiencia rejuvenecedora de nuestros tratamientos de belleza, donde cada sesión es un mimo para tu cuerpo y una oportunidad para realzar tu belleza natural.</p>"
     },
     {
         "id": "Masajes terapeuticos",
@@ -366,7 +402,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Sumérgete en un oasis de relajación y bienestar con nuestros masajes terapéuticos. Diseñados para aliviar tensiones musculares, reducir el estrés y promover la circulación sanguínea, nuestros masajes son llevados a cabo por terapeutas especializados que utilizan técnicas expertas para ofrecerte una experiencia rejuvenecedora.</p><p><b>Características de los Masajes Terapéuticos:</b></p><p><b>Variedad de Técnicas:</b> Ofrecemos una variedad de técnicas de masaje terapéutico, desde masajes suecos y de tejido profundo hasta masajes con piedras calientes y aromaterapia, adaptados a tus preferencias y necesidades.</p><p><b>Alivio de Tensiones Musculares:</b> Nuestros masajes están diseñados para aliviar las tensiones musculares, reduciendo la rigidez y mejorando la flexibilidad, brindándote una sensación general de bienestar.</p><p><b>Reducción del Estrés:</b> Los masajes terapéuticos son efectivos para reducir el estrés mental y físico, proporcionando un escape relajante y promoviendo la calma interior.</p><p><b>Mejora de la Circulación:</b> La manipulación experta durante los masajes estimula la circulación sanguínea, favoreciendo la entrega de nutrientes y oxígeno a los tejidos y mejorando la salud general del cuerpo.</p><p><b>Consulta Personalizada:</b> Antes de cada sesión, realizamos consultas personalizadas para comprender tus necesidades específicas, adaptando el masaje para brindarte los mayores beneficios.</p><p><b>Relajación Profunda:</b> Sumérgete en un estado de relajación profunda mientras nuestros terapeutas expertos trabajan en aliviar tus tensiones y mejorar tu bienestar general.</p><p><b>Costo Adicional:</b> Ten en cuenta que los masajes terapéuticos pueden conllevar un costo adicional. Consulta nuestras tarifas al hacer tu reserva.</p><p>Descubre el poder curativo de nuestros masajes terapéuticos, donde cada sesión es una oportunidad para restaurar el equilibrio en tu cuerpo y revitalizar tu mente.</p>"
     },
     {
         "id": "Area de relajacion",
@@ -376,7 +413,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Descubre nuestra exclusiva área de relajación, diseñada para ofrecerte un espacio tranquilo y rejuvenecedor donde puedes escapar del bullicio y recargar tus energías. Ya sea antes o después de disfrutar de nuestros servicios de bienestar, nuestro área de relajación es el lugar perfecto para encontrar paz interior.</p><p><b>Características del Área de Relajación:</b></p><p><b>Entorno Tranquilo:</b> Nuestra área de relajación está diseñada con la serenidad en mente, proporcionando un entorno tranquilo y acogedor para que puedas descansar y desconectar.</p><p><b>Asientos Cómodos:</b> Disfruta de cómodos asientos, ya sea en sillones reclinables o áreas con cojines, que te invitan a relajarte y disfrutar de un momento de calma.</p><p><b>Iluminación Ambiental:</b> La iluminación suave y ambiental contribuye a crear una atmósfera relajante, ayudándote a sumergirte en un estado de paz y tranquilidad.</p><p><b>Selección de Bebidas:</b> Ofrecemos una selección de bebidas relajantes, como infusiones de hierbas o aguas aromatizadas, para complementar tu experiencia de relajación.</p><p><b>Música Suave:</b> La música suave y relajante ambienta el espacio, contribuyendo a crear una experiencia sensorial completa y aumentando la sensación de calma.</p><p><b>Zona de Lectura:</b> Si prefieres sumergirte en un buen libro, nuestro área de relajación puede incluir una zona de lectura tranquila, permitiéndote disfrutar de momentos de lectura en un entorno sereno.</p><p><b>Incluido en la Estadía:</b> El acceso al área de relajación está incluido en el precio de tu estadía, brindándote un espacio adicional para disfrutar de momentos de tranquilidad y descanso.</p><p>Sumérgete en la serenidad de nuestro exclusivo espacio de relajación, donde cada momento es una oportunidad para desconectar, rejuvenecer y encontrar equilibrio en tu viaje hacia el bienestar.</p>"
     },
     {
         "id": "Programas de bienestar",
@@ -386,7 +424,8 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "Costo adicional",
+        "descripcion": "<p>Sumérgete en una experiencia completa de bienestar con nuestros programas diseñados para nutrir tu cuerpo, mente y espíritu. Nuestros programas de bienestar ofrecen una combinación armoniosa de servicios que promueven la salud, la relajación y el equilibrio, guiándote hacia un estado de bienestar integral.</p><p><b>Características de los Programas de Bienestar:</b></p><p><b>Consulta Personalizada:</b> Antes de comenzar, ofrecemos consultas personalizadas para entender tus objetivos de bienestar y adaptar el programa según tus necesidades individuales.</p><p><b>Combinación de Servicios:</b> Cada programa de bienestar combina una variedad de servicios, como masajes, tratamientos de belleza, clases de yoga, acceso a áreas de relajación y más, para ofrecerte una experiencia holística.</p><p><b>Duración Personalizable:</b> Los programas de bienestar pueden adaptarse a la duración que mejor se ajuste a tu agenda, ya sea para una escapada de un día o una experiencia prolongada de varios días.</p><p><b>Terapeutas Especializados:</b> Nuestros terapeutas especializados guían cada sesión del programa, asegurándose de que recibas la atención experta necesaria para maximizar los beneficios de cada servicio.</p><p><b>Enfoque Integral:</b> Cada programa está diseñado con un enfoque integral, abordando aspectos físicos, mentales y emocionales de tu bienestar para lograr resultados duraderos.</p><p><b>Costo Adicional:</b> Ten en cuenta que los programas de bienestar pueden conllevar un costo adicional. Consulta nuestras tarifas al hacer tu reserva.</p><p>Embárcate en un viaje transformador hacia el bienestar integral con nuestros programas diseñados cuidadosamente, donde cada sesión es una inversión en tu salud y equilibrio.</p>"
     },
     {
         "id": "Canchas deportivas (tenis, baloncesto)",
@@ -396,6 +435,7 @@
             "nombre": "Instalaciones de Bienestar",
             "id": "Instalaciones de Bienestar"
         },
-        "precio": " gratis"
+        "precio": "INCLUIDO",
+        "descripcion": "<p>Disfruta de la actividad física y la diversión en nuestras canchas deportivas, donde puedes practicar tenis y baloncesto en instalaciones de primera clase. Ya sea que busques desafiar tus habilidades, mantenerte activo o simplemente divertirte con amigos y familiares, nuestras canchas están diseñadas para satisfacer tus necesidades deportivas.</p><p><b>Características de las Canchas Deportivas:</b></p><p><b>Cancha de Tenis:</b> Nuestra cancha de tenis está equipada con superficies de calidad, brindándote un espacio ideal para practicar tus habilidades, mejorar tu juego o disfrutar de un emocionante partido con amigos o compañeros de viaje.</p><p><b>Cancha de Baloncesto:</b> La cancha de baloncesto ofrece un espacio emocionante para partidos amistosos, práctica individual o actividades grupales, proporcionando una oportunidad para disfrutar del deporte y mejorar tus habilidades.</p><p><b>Alquiler de Equipos:</b> Si no dispones de tu propio equipo, ofrecemos alquiler de raquetas de tenis, pelotas y balones de baloncesto, permitiéndote participar en las actividades deportivas sin preocupaciones logísticas.</p><p><b>Iluminación Nocturna:</b> Las canchas cuentan con iluminación nocturna, brindándote la flexibilidad de disfrutar de tus deportes favoritos incluso después del anochecer, creando una experiencia única y emocionante.</p><p><b>Áreas de Observación:</b> Para aquellos que prefieren disfrutar como espectadores, contamos con áreas de observación cómodas y seguras donde puedes animar a los jugadores o simplemente disfrutar del ambiente deportivo.</p><p><b>Incluido en la Estadía:</b> El acceso a las canchas deportivas, tanto de tenis como de baloncesto, está incluido en el precio de tu estadía, brindándote la oportunidad de incorporar actividad física a tu experiencia hotelera.</p><p>Sumérgete en la emoción del deporte y la actividad física en nuestras canchas deportivas, donde cada partido es una oportunidad para disfrutar, mejorar y compartir momentos divertidos con amigos y familiares.</p>"
     }
 ]

@@ -3,50 +3,52 @@
 
 <!-- Representa la raíz de un documento HTML o XHTML. Todos los demás elementos deben ser descendientes de este elemento. -->
 <html lang="es">
-    
-    <head>
-        
-        <meta charset="utf-8">
-        
-        <title> Hotel Tipton</title>    
-        
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
-        <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet"> 
-        <link rel="stylesheet" href="css/index.css" style type="text/css">              
-    </head>
-    
-    <body>
-    
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title> Hotel Tipton</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css" style type="text/css">
+</head>
+
+<body>
 
 
-        
-        <div id="contenedor">
-            
-            <div id="contenedorcentrado">
-                <div id="login">
-                    <form id="loginform">
-                        <label for="usuario">Usuario</label>
-                        <input id="usuario" type="text" name="usuario" placeholder="Usuario" required>
-                        
-                        <label for="password">Contraseña</label>
-                        <input id="password" type="password" placeholder="Contraseña" name="password" required>
-                        
-                        <button type="submit" title="Ingresar" id="Ingresar" name="Ingresar" onclick="login()">Login</button>
-                    </form>
+
+
+    <div id="contenedor">
+
+        <div id="contenedorcentrado">
+            <div id="login">
+                <form id="loginform">
+                    <label for="usuario">Usuario</label>
+                    <input id="usuario" type="text" name="usuario" placeholder="Usuario" required>
+
+                    <label for="password">Contraseña</label>
+                    <input id="password" type="password" placeholder="Contraseña" name="password" required>
+
+                    <button type="submit" title="Ingresar" id="Ingresar" name="Ingresar"
+                        onclick="login()">Login</button>
+                </form>
+            </div>
+            <div id="derecho">
+                <div class="titulo">
+                    Bienvenido
+                    <img src="img/logo.png" alt="" id="logoIndex">
                 </div>
-                <div id="derecho">
-                    <div class="titulo">
-                        Bienvenido
-                        <img src="img/logo.png" alt="" id="logoIndex">
-                    </div>
+                <hr>
+                <div class="pie-form">
+                    <a href="WEB/registro.html">¿No tienes Cuenta? Registrate</a>
                     <hr>
-                    <div class="pie-form">
-                        <a href="WEB/registro.html">¿No tienes Cuenta? Registrate</a>
-                        <hr>
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
     <script src="JS/login.js"></script>
-    </body>
+</body>
+
 </html>
